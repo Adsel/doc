@@ -20,6 +20,10 @@
 ### produkt
 
 -  Przy funkcjonalności **"czytaj więcej..."** Scroll nastepuje do sekcji tekstu, naglowek (Opis produktu, oraz pozostale dwie opcje) jest niewidoczny
+
+   ![](./img/Selection_131.png)
+   ![](./img/Selection_132.png)
+   
 -  Widoczna funkcjonalnosc przegladania zdjęc produktu, gdy takowego nie posiada
 
    ![](./img/Selection_129.png)
@@ -50,6 +54,12 @@
 -  Button nachodzi na header nastepnej sekcji
    
     ![](./img/Selection_056.png)
+
+### wishlist
+
+- Bardzo duża pusta treść
+
+  ![](./img/Selection_133.png)
 
 ### newsletter
 
