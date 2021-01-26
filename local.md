@@ -19,8 +19,15 @@
 
 ### produkt
 
--  Scroll nastepuje do sekcji tekstu, naglowek (Opis produktu, oraz pozostale dwie opcje) jest niewidoczny
+-  Przy funkcjonalności **"czytaj więcej..."** Scroll nastepuje do sekcji tekstu, naglowek (Opis produktu, oraz pozostale dwie opcje) jest niewidoczny
+-  Widoczna funkcjonalnosc przegladania zdjęc produktu, gdy takowego nie posiada
+
+   ![](./img/Selection_129.png)
 -  Sekcje: opis produktu oraz skladniki maja rozne style tekstu
+   
+   ![](./img/Selection_129_a.png)
+
+   ![](./img/Selection_130_a.png)
 -  strona produktów poniżej breakpointu md, flex dalej formatuje divy w rzędzie
   
    ![](./img/image1.png)
@@ -63,6 +70,7 @@
 -  Kolor bialy nie jest widoczny, o ile przy produkcie mamy nazwe kolor bialy, to przy karuzelach z produktami juz nie widac ze mamy mozliwosc wyboru bialego koloru
 
     ![](./img/Selection_060.png)
+    ![](./img/Selection_130.png)
 ### 404 page
 -  Zawiera mozliwosc przegladania produktow, na makiecie nie ma takiej mozliwosci
    
